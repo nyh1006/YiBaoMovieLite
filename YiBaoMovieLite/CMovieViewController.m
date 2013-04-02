@@ -5,6 +5,7 @@
 //  Created by MaKai on 12-12-13.
 //  Copyright (c) 2012年 MaKai. All rights reserved.
 //
+
 #import "CMovieViewController.h"
 #import "LoginViewController.h"
 #import "GDataXMLNode.h"
@@ -15,6 +16,7 @@
 #import "CinemaIntroduceViewController.h"
 #import "UserItem.h"
 #import "MBProgressHUD.h"
+
 
 @interface CMovieViewController ()
 @property (retain, nonatomic) UITableView *movieTableView;
