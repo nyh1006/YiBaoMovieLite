@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<head cid="08000005" sver="A 2.0.0.240" mac="1234567890123456">
+		<goods_type>2100000000</goods_type>
+		<merc_id>301800000000000</merc_id>
+		<areaid></areaid>
+		<zip_type></zip_type>
+		<userid></userid>
+		<sessionid></sessionid>
+		<actid></actid>
+		<sdid></sdid>
+		<simid></simid>
+		<clientid></clientid>
+	</head>
+	<body>
+		<goods_type srowid="1" erowid="1000">$_SHOWID</goods_type>
+	</body>
+</root>

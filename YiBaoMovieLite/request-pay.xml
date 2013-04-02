@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<head cid="02000005" sver="A 2.0.0.240" mac="1234567890123456">
+		<goods_type>2100000000</goods_type>
+		<merc_id>301800000000000</merc_id>
+		<areaid>100000</areaid>
+		<zip_type></zip_type>
+		<userid>$_USERNAME</userid>
+		<sessionid></sessionid>
+		<actid></actid>
+		<sdid></sdid>
+		<simid></simid>
+		<clientid></clientid>
+	</head>
+	<body>
+		<upass>$_USERPASSWORD</upass>
+		<mob_num>$_MOBILENUM</mob_num>
+		<paytype>$_PAYTYPE</paytype>
+		<goods_id nums="$_GOODNUM">2100000000_001</goods_id>
+		<price>$_PRICE</price>
+		<custom>
+			<wp_seats>
+				$_WPSEAT
+			</wp_seats>
+			<wp_showid>$_SHOWID</wp_showid>
+		</custom>
+	</body>
+</root>

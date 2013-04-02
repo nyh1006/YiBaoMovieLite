@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<head cid="01000011" sver="A 2.0.0.240" mac="1234567890123456">
+		<areaid></areaid>
+		<zip_type></zip_type>
+		<userid>$_USERNAME</userid>
+		<sessionid></sessionid>
+		<actid></actid>
+		<sdid></sdid>
+		<simid></simid>
+		<clientid></clientid>
+	</head>
+	<body>
+		<mob_num>$_MOBILENUM</mob_num>
+	</body>
+</root>
