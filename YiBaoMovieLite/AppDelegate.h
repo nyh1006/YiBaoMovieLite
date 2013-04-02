@@ -3,7 +3,7 @@
 //  YiBaoMovieLite
 //
 //  Created by MaKai on 12-12-11.
-//  Copyright (c) 2012年 MaKai. All rights reserved.
+//  Copyright (c) 2012年. All rights reserved. //FirstChange
 //
 
 #import <UIKit/UIKit.h>
